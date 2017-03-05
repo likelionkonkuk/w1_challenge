@@ -4,7 +4,7 @@
 - `display:flex`를 사용하여 puzzle을 원본이미지와 같게 맞추세요.
 - 완성한 학생은 **자유시간**을 갖습니다.
 
-![](../images/original.png)
+![](./images/original.png)
 (원본이미지)
 
 #### 설치
